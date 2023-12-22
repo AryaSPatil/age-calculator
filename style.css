@@ -1,63 +1,61 @@
 * {
-    box-sizing: border-box;
-    margin: 0px;
-    padding: 0px;
-    color: white;
-    font-family: 'Itim', cursive;
-    text-align: center;
-    }
-    .main{
-        margin: 200px;
-        
-        background-color: #778da9;
-        border-radius: 10px; 
-    }
-    header { 
-        font-size: larger; 
-    }
-      
-    header h1 {  
-        color: #a7c957; 
-        font-size: xx-large; 
-        padding: 1%; 
-        text-shadow: 2px 2px 1px rgb(91, 92, 95);
-    } 
-    label { 
-        color: black;
-        font-size: large; 
-        margin: 2%; 
-    } 
-    input{
-        border-radius: 5px;
-    }
-    p{
-        color: #001219;
-        font-size: large;
-    }
-    button { 
-        background-color: rgb(247, 173, 82);
-        margin-right: 40px;
-        font-size: large; 
-        padding: 1%; 
-        border-radius: 10px;
-    } 
-    button:hover{
-        background-color: rgb(83, 83, 82);
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  color: white;
+  font-family: "Itim", cursive;
+  text-align: center;
+}
+.main {
+  margin: 200px;
 
-    }
-    span a{
-        margin-left: 30px;
-    }
-    .fa-twitter:hover{
-        color: #1DA1F2;
-    }
-    .fa-linkedin-square:hover{
-        color: #0077b5 ;
-    }
-    .fa-facebook-official:hover{
-        color: #316FF6;
-    }
-    .fa-instagram:hover{
-        color: rgb(252, 81, 18);
-    }
-    
+  background-color: #778da9;
+  border-radius: 10px;
+}
+header {
+  font-size: larger;
+}
+
+header h1 {
+  color: #a7c957;
+  font-size: xx-large;
+  padding: 1%;
+  text-shadow: 2px 2px 1px rgb(91, 92, 95);
+}
+label {
+  color: black;
+  font-size: large;
+  margin: 2%;
+}
+input {
+  border-radius: 5px;
+}
+p {
+  color: #001219;
+  font-size: large;
+}
+button {
+  background-color: rgb(247, 173, 82);
+  margin-right: 40px;
+  font-size: large;
+  padding: 1%;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: rgb(83, 83, 82);
+}
+span a {
+  margin-left: 30px;
+}
+.fa-twitter:hover {
+  color: #1da1f2;
+}
+.fa-linkedin-square:hover {
+  color: #0077b5;
+}
+.fa-facebook-official:hover {
+  color: #316ff6;
+}
+.fa-instagram:hover {
+  color: rgb(252, 81, 18);
+}
